@@ -1,4 +1,4 @@
-# CookBook and Code by TuLingXueYuanJ
+# CookBook and Code by TuLingXueYuan
 
 关于图灵学院的课件放入此地
 
