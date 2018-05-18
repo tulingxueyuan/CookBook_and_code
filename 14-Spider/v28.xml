@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<bookstore>
+    <book category="cooking">
+        <title lang="en">Everyday Italian</title>
+        <author>Gidada De</author>
+        <year>2018</year>
+        <price>23</price>
+    </book>
+
+
+    <book category="education">
+        <title lang="en">Python is Python</title>
+        <author>Food War</author>
+        <year>2008</year>
+        <price>83</price>
+    </book>
+
+    <book category="sport">
+        <title lang="en">Running</title>
+        <author>Klaus Kuka</author>
+        <year>2010</year>
+        <price>43</price>
+    </book>
+
+</bookstore>
