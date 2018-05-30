@@ -99,3 +99,84 @@
     - File： 文件名称， 例如 Klar-1.1-RC1.apk
     - 如果想完整精确表示ftp上某一个文件，需要上述三部分组合在一起
     - 案例v06
+    
+# Mail编程
+## 电子邮件的历史
+- 起源
+    - 1969 Leonard K. 教授发给同时的 “LO”
+    - 1971 美国国防部自主的阿帕网(Arpanet)的通讯机制
+    - 通讯地址里用@， 
+    - 1987年中国的第一份电子邮件  
+    “Across the Great Wall we can reach every corner in the world"
+
+- 管理程序
+    - Euroda使邮件普及 
+    - Netscape，outlook，forxmail后来居上
+    - Hotmal使用浏览器发送邮件i
+- 参考资料
+    - [官网](https://docs.python.org/3/library/email.mime.html)
+    
+## 邮件工作流程
+- MUA(MailUserAgent)邮件用户代理
+- MTA(MailTransferAgent)邮件传输代理
+- MDA(MailDeliveryAgent)邮件投递代理
+- laoshi@qq.com, 老师，北京海淀
+- xuesheng@sina.com, 学生，上海江岸区
+- 流程
+    1. MUA->MTA, 邮件已经在服务器上了
+    2. qq MTA->.........->sina MTA, 邮件在新浪的服务器上
+    3. sina MTA-> sina MDA, 此时邮件已经在你的邮箱里了
+    4. sina MDA -> MUA(Foxmail/Outlook), 邮件下载到本地电脑
+   
+- 编写程序
+    - 发送：  MUA->MTA with SMTP:SimpleMailTransferProtocal，包含MTA->MTA
+    - 接受：  MDA->MUA with POP3 and IMAP：PostOfficeProtocal v3 and  InternetMessageAccessProtocal v4
+    
+- 准备工作
+    - 注册邮箱（以qq邮箱为例）
+    - 第三方邮箱需要特殊设置， 以qq邮箱为例
+        - 进入设置中心
+        - 取得授权码
+        
+- Python for mail
+    - SMTP协议负责发送邮件
+        - 使用email模块构建邮件
+            - 纯文本邮件
+            - 案例v07
+        - HTML格式邮件发送
+            - 准备HTML代码作为内容
+            - 把邮件的subtpye设为html
+            - 发送
+            - 案例v08
+        - 发送带附件的邮件
+            - 可以把邮件看作是一个文本邮件和一个附件的合体
+            - 一封邮件如果涉及多个部分，需要使用MIMEMultipart格式构建
+            - 添加一个MIMEText正文
+            - 添加一个MIMEBase或者MEMEText作为附件
+            - 案例v09
+            
+        - 添加邮件头， 抄送等信息
+            - mail["From"] 表示发送着信息，包括姓名和邮件
+            - mail["To"]  表示接收者信息，包括姓名和邮件地址
+            - mail["Subject"] 表示摘要或者主题信息
+            - 案例v10
+        - 同时支持html和text格式
+            - 构建一个MIMEMultipart格式邮件
+            - MIMEMultipart的subtype设置成alternative格式
+            - 添加HTML和text邮件
+            - 案例v11
+        
+        - 使用smtplib模块发送邮件
+    
+    - POP3协议接受邮件 
+        - 本质上是MDA到MUA的一个过程
+        - 从 MDA下载下来的是一个完整的邮件结构体，需要解析才能得到每个具体可读的内容
+        - 步骤：
+            1. 用poplib下载邮件结构体原始内容
+                1. 准备相应的内容（邮件地址，密码，POP3实例）
+                2. 身份认证
+                3. 一般会先得到邮箱内邮件的整体列表
+                4. 根据相应序号，得到某一封信的数据流
+                5. 利用解析函数进行解析出相应的邮件结构体
+            2. 用email解析邮件的具体内容
+        - 案例v12
