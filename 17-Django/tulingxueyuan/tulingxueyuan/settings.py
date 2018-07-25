@@ -25,7 +25,7 @@ SECRET_KEY = '67^a@@n)+*8x5$5d+s^g@5py8wqt2hpgl27*tks9(2@i@-5vxf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'teacher',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -79,7 +80,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
+
 }
+
 
 
 # Internationalization

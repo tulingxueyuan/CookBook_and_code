@@ -26,4 +26,15 @@ urlpatterns = [
     url(r'^v9_get/', v.v9_get),
     url(r'^v9_post/', v.v9_post),
 
+
+    url(r'^render_test/', v.render_test),
+
+    url(r'^render2_test/', v.render2_test),
+
+    url(r'^render3_test/', v.render3_test),
+
+    url(r'^render1_to_res/', v.render4_test),
+
+    url(r'^get404/', v.get404),
+
 ]
