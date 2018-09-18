@@ -10,6 +10,14 @@ from django.core.urlresolvers import reverse
 视图函数需要一个参数，类型 应该是 HttpRequest
 '''
 def do_normalmap(request):
+
+    qs = Teacher.objects.all()
+    ss = Student.objects.all()
+    for i in ss:
+        ss.mytecher
+
+
+
     print("In do_normalmap")
     return HttpResponse("This is normalmap")
 

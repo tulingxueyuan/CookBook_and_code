@@ -497,3 +497,67 @@ s.save()
 * contains: 包含
 * startwith: 以..开头
 * endwith: 以…结尾 
+
+# 数据库表关系
+- 多表联查：利用多个表联合查找某一项信息或者多项信息
+- 1:1 OneToOne
+    - 建立关系：在模型任意一边即可，使用OneToOneField
+    - add:  
+        - 添加没有关系的一边，直接实例化保存就可以
+        
+            >>> s = School()
+            >>> s.school_id = 2
+            >>> s.school_name = "nanjingtulingxueyuan"
+            >>> s.save()
+            
+        - 添加有关系的一边，使用create方法,或者使用实例化然后save
+        
+            # 方法1
+            >>> m = Manager()
+            >>> m.manager_id = 10
+            >>> m.manager_name = "dana"
+            >>> m.my_school = s
+            >>> m.save()
+            
+            # 方法2
+            >>> m = Manager.objects.create(manager_id=20, manager_name="erna", my_school=ss[0])
+    - query:
+        - 有子表查母表： 由子表的属性直接提取信息
+        - 由母表查子表：使用双下划线 
+        
+                 >>> s = School.objects.get(manager__manager_name="dana")
+                    >>> s
+                    <School: nanjingtulingxueyuan>
+    - change:
+        - 单个修改使用save     
+        - 批量修改使用update
+        - 无论对子表还是对母表的修改
+    - delete： 直接使用delete还是删除                   
+    
+- 1:N OneToMany
+    - 一个表格的一个数据项/对象等，可以有很多个另一个表格的数据项
+    - 比如：一个学校可以有很多个老师，但一个老师只能在一个学校里上班
+    - 使用上
+        - 使用ForengnKey
+        - 在多的那一边，比如上边的例子就是在Teacher的表格里进行定义
+        
+     Add:
+        - 跟一对一方法类似，通过create和new来添加
+        - create: 把属性都填满，然后不需要手动保存
+        - new: 可以属性或者参数为空，必须用save保存
+    Query: 
+        - 以学校和老师的例子为准
+        - 如果知道老师，查学校  ，则通过增加的关系属性，直接使用 
+        - 例如，查找t1老师是哪个学校的
+        - 反查=
+            - 有学校，我想查下这个学校所有老师，则系统自动在老师模型名称的小写下直接加下划线set，
+                用来表示
+            -
+- N:N ManyToMany
+    - 表示任意一个表的数据可以拥有对方表格多项数据，反之亦然
+    - 比如典型例子就是老师和学生的关系
+    - 使用上，在任意一方，使用ManyToMany定义，只需要定义一边
+    - Add:
+        - 添加老师，则在student.teachers.add()
+    - Query:
+        - 跟一对多类似，使用_set查询

@@ -12,3 +12,11 @@ class Teacher(models.Model):
     def __str__(self):
         return  self.name
 
+class Studenty(models.Model):
+    name = models.CharField(max_length=100)
+    age = models.IntegerField()
+
+    myteacher = models.ForeignKey(Teacher )
+
+
+
