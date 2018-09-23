@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>第四个案例</title>
+</head>
+<body>
+
+    {% if name == "王晓静" %}
+
+    <h1>
+        {{name}},你好，一别十年，你还好吗？窗外一人人来人往，依然有爱情在游荡
+    </h1>
+
+    {% elif name == "张晓静" %}
+
+        <h1>
+        {{name}}, 你还记得大明湖畔的下雨天的荷吗？
+        </h1>
+    {% else %}
+
+        <h1>
+        {{name}}, 你走开，赶紧走开，我们不约.
+        </h1>
+
+    {% endif %}
+
+</body>
+</html>
