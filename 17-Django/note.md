@@ -604,3 +604,64 @@ s.save()
 - csrf:跨站请求伪造
 -  在提交表单的时候，表单页面需要加上 {% csrf_token %},
 - 案例five_get,five_post
+
+
+# session
+- 为了应对HTTP协议的无状态性
+- 用来保存用户比较敏感的信息
+- 属于request的一个属性
+- 常用操作：
+    - request.session.get(key, defaultValue)
+    - request.session.clear():清除全部
+    - request.session[key] = value :赋值
+    - request.session.flush(): 删除当前回话切清除回话的cookie
+    - del request.session[key]
+
+
+# 分页
+- django提供现成的分页器用来对结果进行分页
+- from django.core.paginator import Paginator
+# Ajax
+
+# 基于类的试图
+- 可以针对http协议不同的方法创建不同的函数
+- 可以使用Mixin等oop技术
+- Mixin
+    - 把来自父类的行为或者属性组合在一起
+    - 解决多重继承问题
+- ListView
+
+# admin
+## 1. 创建Admin
+- settings中填入app`
+- 打开urls.py
+- 创建超级用户
+- 配置settings文件
+
+## 2. 绑定管理模型
+
+## 3. 设置admin管理类
+- 实现方式
+    - ModelAdmin
+    - 装饰器
+- 修改页面显示数量：list_per_page
+- 操作选项： actions_on_top/button 
+- 控制列表中显示的内容：list_display=[]
+- 将方法作为列显示
+    - 函数必须返回值
+    - 设置short_descraption作为显示内容
+    - 排序使用admin_order_field
+- 关联对象
+    - 使用方法
+    
+- 右侧过滤器
+    
+- 搜索框
+- 分组显示
+
+    
+ 
+
+    
+    
+# RESTful
