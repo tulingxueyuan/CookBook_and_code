@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c483cc1a-1f04-4c5d-89c0-e24e7cb06049" name="Default" comment="models relationship">
+      <change afterPath="$PROJECT_DIR$/18-DRF/DRF2/MySer/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-DRF/TlxyDRF/case01/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-DRF/note.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cookbook_and_code$09.coverage" NAME="09 Coverage Results" MODIFIED="1524491474524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$06.coverage" NAME="06 Coverage Results" MODIFIED="1524490447944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p08.coverage" NAME="p08 Coverage Results" MODIFIED="1521466556945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$03.coverage" NAME="03 Coverage Results" MODIFIED="1524489011607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$18.coverage" NAME="18 Coverage Results" MODIFIED="1524663858766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$py_test_in_test_cfg_py.coverage" NAME="py.test in test_cfg.py Coverage Results" MODIFIED="1524575187822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-AirPlane/v3" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p02.coverage" NAME="p02 Coverage Results" MODIFIED="1521462929665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$12.coverage" NAME="12 Coverage Results" MODIFIED="1524659067059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$py_test_for_18_test.coverage" NAME="py.test for 18.test Coverage Results" MODIFIED="1524663540957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$21.coverage" NAME="21 Coverage Results" MODIFIED="1524832511784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$ap.coverage" NAME="ap Coverage Results" MODIFIED="1524571407142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-AirPlane/v1" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$20.coverage" NAME="20 Coverage Results" MODIFIED="1524832116143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$15.coverage" NAME="15 Coverage Results" MODIFIED="1524662359609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p05.coverage" NAME="p05 Coverage Results" MODIFIED="1521464720166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage__5_.coverage" NAME="manage (5) Coverage Results" MODIFIED="1543753566771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18-DRF/DRF2" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$01.coverage" NAME="01 Coverage Results" MODIFIED="1523453840415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-调试" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$04.coverage" NAME="04 Coverage Results" MODIFIED="1524489428273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$07.coverage" NAME="07 Coverage Results" MODIFIED="1524490574356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage.coverage" NAME="manage Coverage Results" MODIFIED="1543759177439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18-DRF/DRF2" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage__4_.coverage" NAME="manage (4) Coverage Results" MODIFIED="1542718226376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18-DRF/TlxyDRF" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p03.coverage" NAME="p03 Coverage Results" MODIFIED="1521463545565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$13.coverage" NAME="13 Coverage Results" MODIFIED="1524660681553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$16.coverage" NAME="16 Coverage Results" MODIFIED="1524662689249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$01__2_.coverage" NAME="01 (2) Coverage Results" MODIFIED="1524487253601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$py_test_in_18_py.coverage" NAME="py.test in 18.py Coverage Results" MODIFIED="1524663753153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage__2_.coverage" NAME="manage (2) Coverage Results" MODIFIED="1541499197308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17-Django/teach_session" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1537710421491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17-Django/django_tpl" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p06.coverage" NAME="p06 Coverage Results" MODIFIED="1521465219463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1524229938276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-LOG" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$02.coverage" NAME="02 Coverage Results" MODIFIED="1524232525782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10-LOG" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$02__1_.coverage" NAME="02 (1) Coverage Results" MODIFIED="1524488023830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$19.coverage" NAME="19 Coverage Results" MODIFIED="1524831627640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$05.coverage" NAME="05 Coverage Results" MODIFIED="1524489911182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$cfg_test.coverage" NAME="cfg_test Coverage Results" MODIFIED="1524575223242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-AirPlane/v3" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p01.coverage" NAME="p01 Coverage Results" MODIFIED="1521464677798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p09.coverage" NAME="p09 Coverage Results" MODIFIED="1521467047134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$world.coverage" NAME="world Coverage Results" MODIFIED="1524573767004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-AirPlane/v2" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$11.coverage" NAME="11 Coverage Results" MODIFIED="1524658404931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$17.coverage" NAME="17 Coverage Results" MODIFIED="1524662851725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$PlaneWarFare.coverage" NAME="PlaneWarFare Coverage Results" MODIFIED="1524317190081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11-AirPlane/FinalKeyPress" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p10.coverage" NAME="p10 Coverage Results" MODIFIED="1521467902996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$14.coverage" NAME="14 Coverage Results" MODIFIED="1524662004946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p04.coverage" NAME="p04 Coverage Results" MODIFIED="1521463863028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$08.coverage" NAME="08 Coverage Results" MODIFIED="1524491177989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12-多线程" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$manage__3_.coverage" NAME="manage (3) Coverage Results" MODIFIED="1541511684775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17-Django/myAdmin" />
+    <SUITE FILE_PATH="coverage/cookbook_and_code$p07.coverage" NAME="p07 Coverage Results" MODIFIED="1521466104384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2-高级-包管理" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="692731904">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="42" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="6" />
+          <entry key="md" value="7" />
+          <entry key="py" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="6" />
+          <entry key="Markdown" value="7" />
+          <entry key="Python" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="881" />
+          <entry key="md" value="10715" />
+          <entry key="py" value="9861" />
+          <entry key="txt" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="881" />
+          <entry key="Markdown" value="10715" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="9861" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18-DRF/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="5328">
+                <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/DRF2/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#638#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/MySer/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1543759051205" expanded="true" signature="1118:1123" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/14-Spider/note6.md" />
+        <option value="$PROJECT_DIR$/16-net编程/v01.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v02.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v03.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v04.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v05.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v06.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v07.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v08.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v09.py" />
+        <option value="$PROJECT_DIR$/16-net编程/02.html" />
+        <option value="$PROJECT_DIR$/16-net编程/v10.py" />
+        <option value="$PROJECT_DIR$/16-net编程/v11.py" />
+        <option value="$PROJECT_DIR$/16-net编程/note.md" />
+        <option value="$PROJECT_DIR$/16-net编程/v12.py" />
+        <option value="$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/urls.py" />
+        <option value="$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/settings.py" />
+        <option value="$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/__init__.py" />
+        <option value="$PROJECT_DIR$/17-Django/tulingxueyuan/teacher/models.py" />
+        <option value="$PROJECT_DIR$/17-Django/tulingxueyuan/teacher/views.py" />
+        <option value="$PROJECT_DIR$/17-Django/tlxy_db/rlt/models.py" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/templates/one.html" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/templates/two.html" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/templates/three.html" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/templates/four.html" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/django_tpl/urls.py" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/mytpl/views.py" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/templates/five_get.html" />
+        <option value="$PROJECT_DIR$/17-Django/django_tpl/django_tpl/settings.py" />
+        <option value="$PROJECT_DIR$/17-Django/teach_session/sess/views.py" />
+        <option value="$PROJECT_DIR$/17-Django/teach_session/teach_session/urls.py" />
+        <option value="$PROJECT_DIR$/17-Django/teach_session/teach_session/settings.py" />
+        <option value="$PROJECT_DIR$/17-Django/teach_session/sess/models.py" />
+        <option value="$PROJECT_DIR$/17-Django/teach_session/sess/admin.py" />
+        <option value="$PROJECT_DIR$/17-Django/myAdmin/myAdmin/settings.py" />
+        <option value="$PROJECT_DIR$/17-Django/note.md" />
+        <option value="$PROJECT_DIR$/17-Django/myAdmin/aadmin/models.py" />
+        <option value="$PROJECT_DIR$/17-Django/myAdmin/aadmin/admin.py" />
+        <option value="$USER_HOME$/Documents/JAVA/db-mysql.md" />
+        <option value="$PROJECT_DIR$/18-DRF/TlxyDRF/TlxyDRF/settings.py" />
+        <option value="$PROJECT_DIR$/18-DRF/TlxyDRF/case01/models.py" />
+        <option value="$PROJECT_DIR$/18-DRF/TlxyDRF/case01/serializers.py" />
+        <option value="$PROJECT_DIR$/18-DRF/TlxyDRF/case01/views.py" />
+        <option value="$PROJECT_DIR$/18-DRF/TlxyDRF/TlxyDRF/urls.py" />
+        <option value="$PROJECT_DIR$/18-DRF/DRF2/DRF2/settings.py" />
+        <option value="$PROJECT_DIR$/18-DRF/DRF2/MySer/models.py" />
+        <option value="$USER_HOME$/Documents/JAVA/AirPlane/泛型.md" />
+        <option value="$PROJECT_DIR$/18-DRF/DRF2/MySer/serializers.py" />
+        <option value="$PROJECT_DIR$/18-DRF/note.md" />
+        <option value="$PROJECT_DIR$/18-DRF/DRF2/MySer/views.py" />
+        <option value="$PROJECT_DIR$/18-DRF/DRF2/DRF2/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3027" />
+    <option name="height" value="1947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cookbook_and_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookbook_and_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cookbook_and_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookbook_and_code" type="462c0819:PsiDirectoryNode" />
+              <item name="18-DRF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cookbook_and_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookbook_and_code" type="462c0819:PsiDirectoryNode" />
+              <item name="18-DRF" type="462c0819:PsiDirectoryNode" />
+              <item name="DRF2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cookbook_and_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookbook_and_code" type="462c0819:PsiDirectoryNode" />
+              <item name="18-DRF" type="462c0819:PsiDirectoryNode" />
+              <item name="DRF2" type="462c0819:PsiDirectoryNode" />
+              <item name="DRF2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cookbook_and_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookbook_and_code" type="462c0819:PsiDirectoryNode" />
+              <item name="18-DRF" type="462c0819:PsiDirectoryNode" />
+              <item name="DRF2" type="462c0819:PsiDirectoryNode" />
+              <item name="MySer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ZTR" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/11-AirPlane/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cookbook_and_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18-DRF/DRF2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18-DRF/DRF2/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:7852" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c483cc1a-1f04-4c5d-89c0-e24e7cb06049" name="Default" comment="" />
+      <created>1518421253577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518421253577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="By LiuYing">
+      <created>1518422472646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518422472646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="By LiuYing">
+      <created>1518443993670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518443993670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="By LiuYing">
+      <created>1518616666314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518616666314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="By LiuYing">
+      <created>1518789023402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518789023402</updated>
+    </task>
+    <task id="LOCAL-00005" summary="By LiuYing">
+      <created>1519222081350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519222081351</updated>
+    </task>
+    <task id="LOCAL-00006" summary="By LiuYing">
+      <created>1519394575493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519394575493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="By LiuYing">
+      <created>1519654871972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519654871972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="By LiuYing">
+      <created>1519826639532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1519826639532</updated>
+    </task>
+    <task id="LOCAL-00009" summary="By LiuYing">
+      <created>1519999228092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1519999228092</updated>
+    </task>
+    <task id="LOCAL-00010" summary="By LiuYing">
+      <created>1520431811414</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1520431811414</updated>
+    </task>
+    <task id="LOCAL-00011" summary="By LiuYing">
+      <created>1520603428910</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1520603428910</updated>
+    </task>
+    <task id="LOCAL-00012" summary="By LiuYing">
+      <created>1520862527301</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1520862527301</updated>
+    </task>
+    <task id="LOCAL-00013" summary="By LiuYing">
+      <created>1521035886252</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1521035886252</updated>
+    </task>
+    <task id="LOCAL-00014" summary="By LiuYing">
+      <created>1521468222380</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1521468222380</updated>
+    </task>
+    <task id="LOCAL-00015" summary="By LiuYing">
+      <created>1521639940069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521639940069</updated>
+    </task>
+    <task id="LOCAL-00016" summary="By LiuYing">
+      <created>1522072099635</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1522072099635</updated>
+    </task>
+    <task id="LOCAL-00017" summary="By LiuYing">
+      <created>1522245582432</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522245582433</updated>
+    </task>
+    <task id="LOCAL-00018" summary="By LiuYing">
+      <created>1522416421666</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1522416421666</updated>
+    </task>
+    <task id="LOCAL-00019" summary="By LiuYing">
+      <created>1522504351919</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1522504351919</updated>
+    </task>
+    <task id="LOCAL-00020" summary="By LiuYing">
+      <created>1522676261699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1522676261700</updated>
+    </task>
+    <task id="LOCAL-00021" summary="By LiuYing">
+      <created>1522763338735</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1522763338735</updated>
+    </task>
+    <task id="LOCAL-00022" summary="By LiuYing">
+      <created>1523454168473</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1523454168473</updated>
+    </task>
+    <task id="LOCAL-00023" summary="By LiuYing">
+      <created>1523454222845</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1523454222845</updated>
+    </task>
+    <task id="LOCAL-00024" summary="By LiuYing">
+      <created>1523539905659</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1523539905659</updated>
+    </task>
+    <task id="LOCAL-00025" summary="By LiuYing">
+      <created>1523886633710</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1523886633710</updated>
+    </task>
+    <task id="LOCAL-00026" summary="By LiuYing">
+      <created>1524232736846</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1524232736846</updated>
+    </task>
+    <task id="LOCAL-00027" summary="By LiuYing">
+      <created>1524491766660</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1524491766662</updated>
+    </task>
+    <task id="LOCAL-00028" summary="By LiuYing">
+      <created>1524834360280</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1524834360280</updated>
+    </task>
+    <task id="LOCAL-00029" summary="By LiuYing">
+      <created>1526304287498</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1526304287498</updated>
+    </task>
+    <task id="LOCAL-00030" summary="kuozha">
+      <created>1526638023641</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1526638023641</updated>
+    </task>
+    <task id="LOCAL-00031" summary="kuozha">
+      <created>1527291316620</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1527291316620</updated>
+    </task>
+    <task id="LOCAL-00032" summary="kuozha">
+      <created>1527516053406</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1527516053406</updated>
+    </task>
+    <task id="LOCAL-00033" summary="kuozha">
+      <created>1527688368248</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1527688368248</updated>
+    </task>
+    <task id="LOCAL-00034" summary="kuozha, added django">
+      <created>1528724818717</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1528724818717</updated>
+    </task>
+    <task id="LOCAL-00035" summary="kuozha, added django">
+      <created>1529933210314</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1529933210314</updated>
+    </task>
+    <task id="LOCAL-00036" summary="kuozha, added django">
+      <created>1530540184488</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1530540184488</updated>
+    </task>
+    <task id="LOCAL-00037" summary="kuozha, added django">
+      <created>1532524440179</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1532524440179</updated>
+    </task>
+    <task id="LOCAL-00038" summary="kuozha, added django">
+      <created>1533041772341</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533041772341</updated>
+    </task>
+    <task id="LOCAL-00039" summary="models relationship">
+      <created>1537270282636</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1537270282636</updated>
+    </task>
+    <task id="LOCAL-00040" summary="models relationship">
+      <created>1537710539631</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1537710539631</updated>
+    </task>
+    <task id="LOCAL-00041" summary="models relationship">
+      <created>1541511811064</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1541511811064</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_18_test - 2018.04.25 at 21h 41m 20s.xml">
+      <configuration name="py.test for 18.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_18_py - 2018.04.25 at 21h 41m 20s.xml">
+      <configuration name="py.test in 18.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_18_py - 2018.04.25 at 21h 45m 15s.xml">
+      <configuration name="py.test in 18.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_cfg_py - 2018.04.24 at 21h 04m 01s.xml">
+      <configuration name="py.test in test_cfg.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_cfg_py - 2018.04.24 at 21h 04m 12s.xml">
+      <configuration name="py.test in test_cfg.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_cfg_py - 2018.04.24 at 21h 04m 34s.xml">
+      <configuration name="py.test in test_cfg.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_cfg_py - 2018.04.24 at 21h 07m 00s.xml">
+      <configuration name="py.test in test_cfg.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2018" height="1298" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20357142" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37392187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24489796" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15759636" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.09899889" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18487972" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37392187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3877551" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18686296" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.09899889" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="By LiuYing" />
+    <MESSAGE value="kuozha" />
+    <MESSAGE value="kuozha, added django" />
+    <MESSAGE value="models relationship" />
+    <option name="LAST_COMMIT_MESSAGE" value="models relationship" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9-调试/01.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11-AirPlane/v3/test_cfg.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11-AirPlane/v3/test_cfg.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/14-Spider/note5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="608">
+            <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-Spider/note4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="356">
+            <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/teacher/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="104" column="15" selection-start-line="104" selection-start-column="15" selection-end-line="104" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/tulingxueyuan/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/teacher/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tulingxueyuan/teacher/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/tlxy_db/rlt/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/templates/one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/django/shortcuts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/templates/two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/templates/three.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/templates/four.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/templates/five_get.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/django_tpl/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="46" column="40" selection-start-line="46" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/mytpl/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/django_tpl/django_tpl/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/teach_session/teach_session/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/teach_session/sess/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/teach_session/teach_session/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/teach_session/sess/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/django/core/management/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14112">
+          <caret line="404" selection-start-line="404" selection-end-line="404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/teach_session/sess/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/myAdmin/myAdmin/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/django/contrib/admin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="83" column="57" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/myAdmin/aadmin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/myAdmin/myAdmin/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/myAdmin/aadmin/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-Django/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="756">
+            <caret line="659" column="5" selection-start-line="659" selection-start-column="5" selection-end-line="659" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/JAVA/db-mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="670">
+            <caret line="659" selection-start-line="659" selection-end-line="659" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/TlxyDRF/TlxyDRF/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/TlxyDRF/case01/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" selection-start-line="4" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/TlxyDRF/TlxyDRF/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/TlxyDRF/case01/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/TlxyDRF/case01/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/DRF2/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/JAVA/AirPlane/泛型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/rest_framework/routers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="474" selection-start-line="474" selection-end-line="474" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/MySer/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/MySer/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/env_teach/Lib/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="153" column="31" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5328">
+            <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/MySer/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1543759051205" expanded="true" signature="1118:1123" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DRF/DRF2/DRF2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#638#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
